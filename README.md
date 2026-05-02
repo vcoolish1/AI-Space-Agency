@@ -1,147 +1,96 @@
 <p align="center">
-  <a href="https://space-agent.ai"><img src="./.github/readme-banner-thin.svg" alt="Space Agent banner" /></a>
+  <a href="https://aispaceagency.com/">
+   <img width="1385" height="596" alt="Screenshot 2026-05-02 at 11 51 59 AM" src="https://github.com/user-attachments/assets/4f7e4b85-c812-4f77-a4df-d96698d3d389" />
+  </a>
 </p>
 
 <p align="center">
-<br>
-  <a href="https://space-agent.ai"><img alt="Try Live Now!" src="./.github/readme-try-live-now.svg" /></a>
-  <br />
-  <br />
-  <a href="https://github.com/agent0ai/space-agent/releases/latest"><img alt="Run local App" height="50" src="https://img.shields.io/badge/Run%20local%20App-59F0A8?style=for-the-badge&labelColor=07111F&color=59F0A8" /></a>
-  <a href="#host"><img alt="Host yourself" height="50" src="https://img.shields.io/badge/Host%20yourself-FFFFFF?style=for-the-badge&labelColor=07111F&color=FFFFFF" /></a>
+  <br>
+  <a href="https://aispaceagency.com/">
+    <img alt="Enter the Space" src="./.github/readme-try-live-now.svg" />
+  </a>
+  <br><br>
+  <img alt="Launch Simulator" height="50" src="https://img.shields.io/badge/Launch%20Simulator-59F0A8?style=for-the-badge&labelColor=07111F&color=59F0A8" />
+  <img alt="Explore the Void" height="50" src="https://img.shields.io/badge/Explore%20the%20Void-FFFFFF?style=for-the-badge&labelColor=07111F&color=FFFFFF" />
 </p>
 
-<h3 align="center">Created by <a href="https://agent-zero.ai">Agent Zero</a>.</h3>
+<h3 align="center">AI Space Agency</h3>
 
 <p align="center">
-  <a href="https://discord.gg/B8KZKNsPpj"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://x.com/Agent0ai"><img alt="X" src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://www.youtube.com/@AgentZeroFW"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://deepwiki.com/agent0ai/space-agent"><img alt="Ask DeepWiki" src="https://deepwiki.com/badge.svg" /></a>
+  A backrooms for space. Infinite. Procedural. Alive.
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=CNRHxEZ8yqs"><img src="./.github/thumbnail.webp" alt="Watch Space Agent on YouTube" width="560" /></a>
-</p>
+---
 
-## Why Space Agent Is Different
+## Why AI Space Agency Is Different
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top" width="50%">
-      <strong>The agent reshapes the interface</strong><br />
-      Ask for a page, tool, widget, or workflow and the agent can build it straight into the running workspace while you work.
-    </td>
-    <td valign="top" width="50%">
-      <strong>Endless possibilities</strong><br />
-      The agent is not trapped inside a fixed product surface. It can develop the capabilities it needs from within the system itself and keep extending the Space toward whatever the user can imagine.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="packaging/resources/icons/source/space-agent-icon-256.webp" alt="Space Agent app icon" width="120" />
-    </td>
-    <td valign="top" width="50%">
-      <strong>The agent lives in the frontend runtime</strong><br />
-      Space Agent runs in the browser layer itself, whether you open it in a tab or through the desktop app, so the agent can work directly with the same framework, modules, spaces, and UI it is reshaping.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Text-based agent</strong><br />
-      New capabilities can live in simple <code>SKILL.md</code> files that the agent can write and extend itself in plain text.
-    </td>
-    <td valign="top" width="50%">
-      <strong>Token-efficient execution</strong><br />
-      No bulky tool-call JSON. When action is needed, the agent can stay in plain text and plain JavaScript inside the same message.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Puzzle-piece modularity</strong><br />
-      The core stays small. Most of Space Agent is made of modular pieces that can be added, removed, or swapped cleanly instead of being welded into one rigid app.
-    </td>
-    <td align="center" valign="top" width="50%">
-      <img src="app/L0/_all/mod/_core/visual/res/chat/admin/helmet_no_bg_256.webp" alt="Space Agent helmet" height="112" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Personal to hierarchical</strong><br />
-      Use Space Agent as a completely personal assistant, or organize it into a hierarchical system of users and groups as the scope grows.
-    </td>
-    <td valign="top" width="50%">
-      <strong>Per-user work, group sharing</strong><br />
-      Users can build in their own layer without affecting anyone else, then groups can share tools, workflows, and behavior across teams when they are ready.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="app/L0/_all/mod/_core/visual/res/engineer/astronaut_red_512h.webp" alt="Space Agent astronaut" height="148" />
-    </td>
-    <td valign="top" width="50%">
-      <strong>Persistent admin and time travel</strong><br />
-      When something breaks, admin mode gives you a stable control plane, and Git-backed history lets you roll back user or group changes without taking everyone down with you.
-    </td>
-  </tr>
-</table>
+### A space that builds itself
+AI Space Agency is not just a simulator—it’s a living environment. Rockets, systems, and entire orbital infrastructures emerge and evolve as you interact with them.
 
-## Try it in 30 seconds
+### Backrooms, but orbital
+Not endless hallways—endless orbits. Drift through layered space filled with launch sites, stations, debris fields, and unknown structures across low Earth orbit and beyond.
 
-# [space-agent.ai](https://space-agent.ai)
+### Real-scale rocket simulation
+Launch rockets with physically accurate flight, thrust, staging, and orbital mechanics.
 
-Try our demo server with guest account.
+### AI-driven fleet expansion
+Build the largest network of AI data centers in orbit. Autonomous systems expand your infrastructure while you explore.
 
-## Run it yourself
+### Familiar, powerful flight systems
+Navigate using a navball and SAS-style HUD. Execute burns, stabilize craft, and rely on autopilot for orbit insertion.
 
-### The desktop app
+### Iconic launch vehicles
+Fly high-fidelity rockets inspired by real-world heavy-lift systems and reusable boosters.
 
-Grab the latest build from [GitHub Releases](https://github.com/agent0ai/space-agent/releases/latest). It runs everything as one app. No terminal required.
+### Time warp control
+Accelerate or slow time to test missions, simulate trajectories, or observe orbital precision in detail.
 
-### A real server, for you or your team
+### Fully realized launch site
+Explore a detailed Cape-style spaceport with a Vehicle Assembly Building and operational launch pads.
 
-<a id="host"></a>
+### Endless solar system
+Travel across planets, moons, and over **18,000 procedurally generated asteroids**.
 
-```bash
-git clone https://github.com/agent0ai/space-agent.git
-cd space-agent
-npm install
+### Procedural atmosphere
+Dynamic, generated music evolves with your environment and movement through space.
 
-# create yourself an admin
-node space user create admin --password "change-me-now" --full-name "Admin" --groups _admin
+### Portals to the unknown
+Dial into portals connected to the Vibejam network—spaces where simulation begins to break down.
 
-# start the server
-node space serve
-```
+---
 
-### For development
+## Enter the Space
 
-```bash
-npm run dev # server with auto-reload
-```
+👉 https://aispaceagency.com/
 
-Open the checked-in VS Code launch entry `Dev Server (npm run dev)` when you want breakpoints in `server/` code. It launches the same watcher and auto-attaches to the spawned `node space serve` process across restarts.
+No install. No limits.
 
-### For production
+---
 
-```bash
-node space set CUSTOMWARE_PATH=/srv/space/customware
-node space supervise HOST=0.0.0.0 PORT=3000 # zero downtime auto-update
-```
+## Features
 
-Run `node space help` to see the full command surface and built-in help for each from [`commands/params.yaml`](./commands/params.yaml).
+- Real-scale rocket launch simulator  
+- Orbital dynamics and orbit insertion autopilot  
+- Rocket staging systems  
+- Time warp  
+- Navball + SAS-style flight HUD  
+- Procedurally generated music  
+- Detailed Cape launch site (VAB + pad)  
+- Full solar system simulation  
+- 18,000+ asteroids  
+- AI-driven orbital infrastructure building  
+- Portals into the Vibejam network  
 
-## AI-driven development and documentation
+---
 
-Space Agent is developed by AI agents, including its documentation.
+## The Idea
 
-The framework keeps a hierarchical `AGENTS.md` instruction system, plus skills and focused docs, so agents can understand ownership, architecture, workflows, and local implementation rules while they build and maintain the system autonomously.
+AI Space Agency is not just a simulator.
 
-DeepWiki covers the human-readable side of that same knowledge base. Together, this keeps the codebase and its documentation prepared for autonomous agent work, and helps the documentation keep up with the pace of AI-driven development instead of falling behind.
+It’s an evolving system—part engineering sandbox, part infinite environment.
 
-If you want the deep tour, start here:
-
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/agent0ai/space-agent)
+A place where:
+- rockets are real  
+- orbits matter  
+- systems grow autonomously  
+- and beyond the known layers… something else begins  
